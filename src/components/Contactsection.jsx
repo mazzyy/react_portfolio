@@ -29,8 +29,14 @@ const Contactsection = () => {
         >
           {CONTACT.phoneNo}
         </motion.p>
-        <a href="#" className="border-b">
-          {CONTACT.email}
+        <a
+          className="border-b"
+          href="#"
+          style={{ display: "inline-block", transition: "transform 0.3s ease" }}
+          onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
+          onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
+        >
+          example@example.com
         </a>
       </div>
     </div>
