@@ -3,7 +3,7 @@ import { TbBrandNextjs } from "react-icons/tb";
 import { SiMongodb } from "react-icons/si";
 import { DiPostgresql, DiRedis } from "react-icons/di";
 import { FaNodeJs } from "react-icons/fa";
-
+// import 
 
 const Technologies = () => {
   return (
