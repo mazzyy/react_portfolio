@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Contactsection from "./components/Contactsection";
 import Experience from "./components/Experience";
 import Hero from "./components/Hero";
 import Navbar from "./components/navbar";
@@ -19,6 +20,7 @@ const App = () => {
         <Technologies />
         <Experience />
         <Projects />
+        <Contactsection />
       </div>
     </div>
   );
