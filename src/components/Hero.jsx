@@ -35,7 +35,7 @@ const Hero = () => {
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight
 text-transparent"
             >
-              Full Stack Developer
+              Software Developer
             </motion.span>
             <motion.p
               variants={container(1)}
@@ -53,9 +53,9 @@ text-transparent"
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex justify-center">
             <motion.img
-            initial={{ opacity: 0, x: 100 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.5, duration: 1 }}
+              initial={{ opacity: 0, x: 100 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.5, duration: 1 }}
               src={profilePic}
               alt="Profile"
               // className="rounded-full w-48 h-48 object-cover"

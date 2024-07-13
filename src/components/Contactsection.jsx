@@ -36,7 +36,7 @@ const Contactsection = () => {
           onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
           onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
         >
-          example@example.com
+          asheerali1997@gmail.com
         </a>
       </div>
     </div>
