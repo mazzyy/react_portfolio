@@ -36,7 +36,16 @@ const Contactsection = () => {
           onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
           onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
         >
-          asheerali1997@gmail.com
+          musawar.soomro25@gmail.com
+        </a>
+        <a
+          className="border-b"
+          href="#"
+          style={{ display: "inline-block", transition: "transform 0.3s ease" }}
+          onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
+          onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
+        >
+         musawar.soomro@devopsgenie.tech
         </a>
       </div>
     </div>
