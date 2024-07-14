@@ -43,7 +43,7 @@ text-transparent"
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-              I am a full stack developer with a passion for building
+              I am a full stack developer with cloud experties with a passion for building
               applications that are user-friendly and accessible. I have
               experience working with React, Node.js, and MongoDB.
               {HERO_CONTENT}
