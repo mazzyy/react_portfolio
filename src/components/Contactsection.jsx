@@ -38,6 +38,7 @@ const Contactsection = () => {
         >
           musawar.soomro25@gmail.com
         </a>
+        <br />
         <a
           className="border-b"
           href="#"
